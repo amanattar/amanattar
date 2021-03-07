@@ -33,9 +33,10 @@ A Compuer Science Engineering Student passionate about Data Science :bar_chart: 
    <i>You miss 100% of the shots you don't take.</i>
    <br>
 <br>
-
+<p align = "center>
 <a target="_blank" href="https://www.linkedin.com/in/amanattar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:attar.aman29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://amanattar.medium.com/"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+</p>
 <br>
 </p>       
