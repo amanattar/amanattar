@@ -15,7 +15,12 @@ A Compuer Science Engineering Student passionate about Data Science :bar_chart: 
 
 ### My Skills Include
 <p align="center">
-
+    <img title = "Python" src = "https://github.com/amanattar/amanattar/blob/master/assets/python.svg" width="120" height="60">
+    <img title = "Jupyter" src = "https://github.com/amanattar/amanattar/blob/master/assets/jupyter.svg" width="120" height="60">
+    <img title = "IBM Cloud" src = "https://github.com/amanattar/amanattar/blob/master/assets/ibm_cloud.svg" width="120" height="60">
+    <img title = "MySQL" src = "https://github.com/amanattar/amanattar/blob/master/assets/mysql.svg" width="120" height="60">
+    <img title = "GIT" src = "https://github.com/amanattar/amanattar/blob/master/assets/git.svg" width="120" height="60">
+    <img title = "Linux" src = "https://github.com/amanattar/amanattar/blob/master/assets/linux.svg" width="120" height="60">
 <p>
 <!--
 **amanattar/amanattar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
