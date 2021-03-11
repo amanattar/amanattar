@@ -3,7 +3,7 @@
 
 ### Hi there 👋 I'm Amanul Rahiman Samshuddin Attar
 
-A Compuer Science Engineering Student passionate about Data Science :bar_chart: and Machine Learning. I like automating things. Strong Advocate for 📜 open source.
+A Computer Science Engineering Student passionate about Data Science :bar_chart: and Machine Learning. I like automating things. Strong Advocate for 📜 open source.
 
 - 🔭 I’m currently working on:
 	- Building a Recommender Systems for Movies.
