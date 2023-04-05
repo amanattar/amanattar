@@ -20,10 +20,7 @@
 <p align = "center">
 <a href="https://www.linkedin.com/in/amanattar/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a href="mailto:attar.aman29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a href="https://amanattar.medium.com/" target="_blank" ><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-</p>
-<br>
-</p>       
+<a href="https://amanattar.medium.com/" target="_blank" ><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>      
 
 ### GitHub Stats
 
