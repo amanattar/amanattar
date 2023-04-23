@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Amanul Rahiman Samshuddin Attar
+### Hi there 👋 I'm Amanul Rahiman Shamshuddin Attar
 
 - 🔭I'm passionate about Artificial Intelligence, Machine Learning, Neural Networks, Big Data and Cloud Computing.
 - 💬 Talk to me about Gadgets :computer: , Memes , Indian Movies and Web Series :cinema: , anything that interests you.
