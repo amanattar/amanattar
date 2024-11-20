@@ -22,15 +22,3 @@
 <a href="mailto:attar.aman29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a href="https://amanattar.medium.com/" target="_blank" ><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>      
 
-### GitHub Stats
-
-<table class="center" style="width:100%;">
-  <tr>
-    <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanattar&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
-    </td>
-    <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanattar&langs_count=10&layout=compact&theme=onedark&hide_border=true" />
-</td>
-  </tr>
-</table>
